@@ -1,0 +1,9 @@
+The diagrams
+ - bayesnet.pdf is from a homework assignment of Prof. Frank Wood.
+ - reduction.pdf is from Cormen et al., Introduction to Algorithms,
+   3rd edition, chapter 34.
+ - proof.pdf is from the paper.
+
+The presentation is based on the Cooper, The computational complexity
+of probabilistic inference using bayesian belief networks. See paper.bib.
+
